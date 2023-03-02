@@ -5,8 +5,9 @@ giris = """
 7777    7777        777      77            77
 7777    7777        777      77  77777777777
 
-        Coded By CheaTeR HATS     *************
-Hats Hesap Makinesi    >> İnstagram @turksiberokulu <<
+        Coded By Ahlaksız Coder    *************
+                   FlagShip
+Hats Hesap Makinesi    >> İnstagram @ahlaksizcoder <<
 """
 print(giris)
 sayi1 = float(input('1. Sayıyı Giriniz >>'))
